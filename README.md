@@ -1,1 +1,1 @@
-# 3D-Reconstruction-Using-Structured-Light
+# 3D Object Reconstruction Using Structured Light
